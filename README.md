@@ -1,6 +1,6 @@
 # HarvQ — Smart Procurement Queue Management System
 
-Built for SIH Problem Statement 26032. A single procurement backend served two
+Built for procurement centres to reduce farmers congestion. A single procurement backend served two
 ways, so no farmer is excluded by lack of a smartphone:
 
 - **Web app** (React) — for farmers with a smartphone
@@ -215,4 +215,3 @@ TNJ-014-20260908-PADDY-S3-Q05
   facing app, taluk/village fields always fall back to free-text entry
   ("not on the list? just type your own") wherever the bundled data doesn't
   have a match.
-# HARVQ-HSC
